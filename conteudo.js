@@ -116,10 +116,10 @@ const SITE = {
     fotos: [
       { src: "IMG/escritorio-2.jpg", alt: "Escritório principal", legenda: "Escritório" },
       { src: "IMG/escritorio-4.jpg", alt: "Recepção",             legenda: "Recepção" },
-      { src: "IMG/escritorio-7.jpg", alt: "Sala de reuniões",     legenda: "Sala de Reuniões" },
-      { src: "IMG/escritorio-8.jpg", alt: "Área de trabalho",     legenda: "Área de Trabalho" },
-      { src: "IMG/escritorio-6.jpg", alt: "Equipe",               legenda: "Nossa Equipe" },
-      { src: "IMG/escritorio-3.jpg", alt: "Atendimento",          legenda: "Atendimento" }
+      { src: "IMG/escritorio-7.jpg", alt: "Sala de reuniões",     legenda: "Recepção" },
+      { src: "IMG/escritorio-8.jpg", alt: "Área de trabalho",     legenda: "Recepção" },
+      { src: "IMG/escritorio-6.jpg", alt: "Equipe",               legenda: "Sala de Reuniões" },
+      { src: "IMG/escritorio-3.jpg", alt: "Atendimento",          legenda: "Fachada" }
     ]
   },
 
@@ -127,14 +127,14 @@ const SITE = {
   galeriaAgro: {
     titulo: "O Campo que <em>Defendemos</em>", sectionLabel: "Campo & Agro", descricao: "Conhecemos a realidade de quem produz. Nossa advocacia nasce da terra.",
     fotos: [
-      { src: "IMG/01.jpeg", alt: "Lavoura de soja",     legenda: "Lavoura de Soja" },
-      { src: "IMG/02.jpeg", alt: "Colheita",            legenda: "Época de Colheita" },
-      { src: "IMG/03.jpeg", alt: "Fazenda",             legenda: "Propriedade Rural" },
-      { src: "IMG/04.jpeg", alt: "Maquinário agrícola", legenda: "Maquinário" },
-      { src: "IMG/05.jpeg", alt: "Plantio",             legenda: "Plantio" },
-      { src: "IMG/06.jpeg", alt: "Pecuária",            legenda: "Pecuária" },
-      { src: "IMG/07.jpeg", alt: "Campo aberto",        legenda: "Campo" },
-      { src: "IMG/08.jpeg", alt: "Pôr do sol no campo", legenda: "Pôr do Sol no Campo" }
+      { src: "IMG/01.jpeg", alt: "Lavoura de soja",     legenda: "" },
+      { src: "IMG/02.jpeg", alt: "Colheita",            legenda: "" },
+      { src: "IMG/03.jpeg", alt: "Fazenda",             legenda: "" },
+      { src: "IMG/04.jpeg", alt: "Maquinário agrícola", legenda: "" },
+      { src: "IMG/05.jpeg", alt: "Plantio",             legenda: "" },
+      { src: "IMG/06.jpeg", alt: "Pecuária",            legenda: "" },
+      { src: "IMG/07.jpeg", alt: "Campo aberto",        legenda: "" },
+      { src: "IMG/08.jpeg", alt: "Pôr do sol no campo", legenda: "" }
     ]
   },
 
